@@ -1,5 +1,7 @@
 # PlentyOfPaws_IOS_APP_KC_Hackathon
 
+video demo: https://youtu.be/m0jSxqjHbN0
+
 location was not needed, future implementation will include in app chat feature. make sure to fix the model, there seem to be something wrong with interperating the data coming in from the get request when adding new dogs. 
 
 ![Simulator Screenshot - iPhone 15 Pro - 2023-09-25 at 22 39 07](https://github.com/AlexTran0899/PlentyOfPaws_IOS_APP_KC_Hackathon/assets/76791231/40fc4ec1-acbb-41bb-847e-755362159e5d)
